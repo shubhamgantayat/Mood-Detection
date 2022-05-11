@@ -135,3 +135,5 @@ workspace/training_demo/annotations/
 workspace/training_demo/exported-models/
 workspace/training_demo/pre-trained-models/
 workspace/training_demo/models/
+workspace/training_demo/raw_data/
+workspace/training_demo/output.avi
