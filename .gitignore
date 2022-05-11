@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+TensorFlow/
+env/
+workspace/example_1/
+workspace/training_demo/images/
+workspace/training_demo/annotations/
+workspace/training_demo/exported-models/
+workspace/training_demo/pre-trained-models/
+workspace/training_demo/models/
